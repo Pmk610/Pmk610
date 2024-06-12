@@ -8,5 +8,5 @@ I am passionate computer science graduate student with expertise in C,Python,SQL
 
 #Projects
 
--[Hotel Management App - GitHub](https://github.com/Pmk610/Hotel-Management)
+- [Hotel Management App - GitHub](https://github.com/Pmk610/Hotel-Management)
 
