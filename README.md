@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **I AM Mohan Krishna Pasupuleti ** 
 Welcome to my GitHub portfolio! 
 
