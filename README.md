@@ -3,7 +3,7 @@
 ## I am **Mohan Krishna Pasupuleti**  
 Welcome to my GitHub portfolio!  
 
-I’m a passionate **Computer Science graduate student** with hands-on experience in **Full Stack Development** and **Data Engineering**.  
+I’m a passionate **Computer Science graduate student** with hands-on experience in **Full Stack Development**.  
 Skilled in **Java, Python, SQL, Power BI, Azure, AWS, and React**, I enjoy designing scalable applications and data-driven solutions that bridge backend performance with frontend usability.  
 
 Here you’ll find a collection of my projects that showcase my work across **software development**, **cloud computing**, and **data analytics**.  
