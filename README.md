@@ -12,6 +12,12 @@ Here you’ll find a collection of my projects that showcase my work across **so
 
 # 🧩 Projects  
 
+- [🛍️ E-Commerce Website using React and Redux](https://github.com/Pmk610/E-commerce-Website.git)  
+  *A full-stack e-commerce platform with secure payments via Stripe, Firebase authentication, and AWS CI/CD.*  
+
+- [🧩 Project Enigma – Home Services Platform](https://github.com/Pmk610/Project-Enigma.git)  
+  *A scalable full-stack web app built with Node.js, React, PostgreSQL, and AWS EC2 featuring JWT authentication and real-time notifications.*  
+
 - [🏨 Hotel Management App](https://github.com/Pmk610/Hotel-Management)  
   *A hotel management system for efficient room booking and guest tracking using Python and SQL.*  
 
@@ -21,11 +27,6 @@ Here you’ll find a collection of my projects that showcase my work across **so
 - [📊 Data Engineering YouTube Analysis Project](https://github.com/Pmk610/dataengineering-youtube-analysis-project.git)  
   *ETL pipeline built with Python, Snowflake, and Power BI to analyze YouTube video insights.*  
 
-- [🛍️ E-Commerce Website using React and Redux](https://github.com/Pmk610/E-commerce-Website.git)  
-  *A full-stack e-commerce platform with secure payments via Stripe, Firebase authentication, and AWS CI/CD.*  
-
-- [🧩 Project Enigma – Home Services Platform](https://github.com/Pmk610/Project-Enigma.git)  
-  *A scalable full-stack web app built with Node.js, React, PostgreSQL, and AWS EC2 featuring JWT authentication and real-time notifications.*  
 
 ---
 
